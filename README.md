@@ -33,4 +33,4 @@ The project includes interactive maps built with **Folium** to visualize pickup/
 
 ## 📂 Project Structure
 - `tede-2.ipynb`: Full Jupyter Notebook containing data preprocessing, EDA, and model training.
-- `data/`: (Not included) Dataset containing NYC taxi trip records.
+- `data.zip`: Dataset containing NYC taxi trip records.
